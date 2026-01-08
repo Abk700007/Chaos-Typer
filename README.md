@@ -36,13 +36,13 @@
 git clone https://github.com/abk700007/chaos-typer.git
 cd chaos-typer
 ```
-2. Install Dependencies
+### 2. Install Dependencies
 Bash
 ```
 npm install
 npm install gsap @gsap/react
 ```
-3. Asset Configuration (CRITICAL) ⚠️
+### 3. Asset Configuration (CRITICAL) ⚠️
 For the game to work correctly on deployed servers (like Vercel), you must place the following files in your public/ folder. Note: Filenames must be lowercase to avoid deployment errors.
 
 public/click.mp3 (Short mechanical click sound)
