@@ -51,7 +51,7 @@ public/avatar-bored.png (Image for idle/slow state)
 
 public/avatar-angry.png (Image for fast/overdrive state)
 
-4. Run Development Server
+### 4. Run Development Server
 ```
 npm run dev
 ```
